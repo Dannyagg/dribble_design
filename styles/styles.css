@@ -1,0 +1,102 @@
+
+*{
+    margin-right: 2%;
+    margin-left: 2%;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+header {
+    padding: 10px;
+    margin-bottom: 20px;
+    background:whitesmoke;
+    border: white 2px;
+    text-align: center;
+    color:black;
+    font-size:30px;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:white; 
+    display:flex;
+    justify-content:center;
+    
+}
+  
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    color: black;
+    font-size: 20px;
+    text-indent: 5%;
+}
+        
+h2 {
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    
+}
+
+
+
+.chapter {
+    padding-top: 20px;
+    text-overflow: ellipsis;
+    
+}
+
+.chap-one-image {
+    width: 500px;
+    float: left;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.header-image {
+    border-radius: 10px;
+    margin: 10px;
+    width: 800px;
+   
+    float: center;
+    
+}
+
+.nav-links{
+    background: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    display:flex;
+    justify-content:space-around;
+    padding: 10px;
+    margin: 20px;
+}
+
+.box-one {
+    display: flex;
+    
+    
+}
+
+.box-two {
+    display: flex;
+    
+}
+
+.box-three {
+    display: flex;
+}
+
+
+.box-four {
+    display: flex;
+}
+
+a {
+    font-weight: bold;
+    color:blue;
+}
